@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adityasahusentra
+- 👋 Hi, I’m Aditya Sahu.
 - 👀 I’m interested in building awesome sotftwares.
 - 🌱 I’m currently learning d3js, javascript, quality of code.
 - 💞️ I’m looking to collaborate on frontend and system design.
